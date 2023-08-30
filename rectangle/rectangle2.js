@@ -14,8 +14,7 @@ window.onload = function init()
         vec2(-0.5, -0.25),
         vec2(-0.5, 0.25),
         vec2(0.5, -0.25),
-        vec2(0.5, 0.25),
-
+        vec2(0.5, 0.25)
     ]
 
     //
